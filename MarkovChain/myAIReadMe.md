@@ -8,12 +8,12 @@
 - The Markov Chain is a mathematical model used to represent a sequence of events, where the probability of each event depends only on the state attained from the previous event, not on the sequence of events that preceded it. This property is known as "memory lessness."<br>
 
 ## System States
-Imagine you have four possible states that the system can be in:
+Imagine you have four possible states that the system can be in:<br>
 
-`State A`
-`State B`
-`State C`
-`State D`
+`State A`<br>
+`State B`<br>
+`State C`<br>
+`State D`<br>
 
 - Each state has a certain probability of transitioning to another state. Rather than thinking of each state as having an independent probability of occurring, think of it in terms of `transition probabilities`. These probabilities determine the likelihood of moving from one state to another.<br>
 
