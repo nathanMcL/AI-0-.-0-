@@ -14,7 +14,7 @@ AI_storage
 
 - This Generative Text Adventure Game is based off a creative writing assignment I took during the summer of 2023 at Evergreen State College. I then at one point, attempted to create a basic choose your own adventure python script named: [Choose_Own_Adventure.py](https://github.com/nathanMcL/ComSci_projects/blob/main/Choose_Own_Adventure.py) <br>
 
-
+- Find the `readme.md` Text Adventure directory.<br>
 
 
 
