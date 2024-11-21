@@ -245,6 +245,12 @@ Example line #94: `# Context to guide the AI generation` <br>
 o	This could be in the form of describing how the player walked to the end of the market or the `{player}` continues to walk along the beach of coarse sand to the end, the `{player}` climbs up the embankment of large boulders…<br>
 -	Create a way to introduce other characters that the `{player}` talks with. Have the AI generate the conversation, based on the `{player}` history of what the `{player}` has done thus far in their story (as input for conversation) and the history between the introduced character (this could be a pet dog) and their story and choices designed by the author. <br>
 
+### 11/21/2024 Schema
+The Text Adventure Game Diagram <br>
+![TextAdventure drawio](https://github.com/user-attachments/assets/a8c9cfd6-6929-4baa-8a1b-4615ea07ef1c)
+
+
+
 ### Noted Sources
 
 - •  https://github.com/openai/openai-python 
