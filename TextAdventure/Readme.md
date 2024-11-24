@@ -73,7 +73,8 @@ The Harbor                   _
 
 The reason to create these files is because: <br>
 
--	The config file will prevent the API’s secret key from being stored in the main program. <br>
+-	The `config` file will prevent the API’s secret key from being stored in the main program. <br>
+-   The `.gitignore` file will prevent the `config` file from being uploaded. <br> 
 
 At this point, I did a sudo system update and sudo upgrade, followed by `pip install --upgrade openai`. <br>
 
