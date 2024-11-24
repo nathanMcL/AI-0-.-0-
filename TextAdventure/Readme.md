@@ -252,6 +252,12 @@ The Text Adventure Game Diagram <br>
 ![TextAdventure](https://github.com/user-attachments/assets/97fe8fd9-c710-429d-8476-2807b297dbce)
 
 
+## The Harbor Left Play Through <br>
+
+
+https://github.com/user-attachments/assets/073cc434-2cd0-4a3a-a5fe-b843971c6170
+
+
 
 
 ### Noted Sources
