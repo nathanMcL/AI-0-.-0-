@@ -76,9 +76,9 @@ The reason to create these files is because: <br>
 -	The `config` file will prevent the API’s secret key from being stored in the main program. <br>
 -   The `.gitignore` file will prevent the `config` file from being uploaded. <br> 
 
-At this point, I did a sudo system update and sudo upgrade, followed by `pip install --upgrade openai`. <br>
+At this point, I did a `sudo apt update && sudo apt upgrade`, followed by `pip install --upgrade openai`. <br>
 
-- Once I was able to get my program to run. Then once the opening story scenario is printed the first set of choices (left and right) is available for the user to make their choice. Upon making the selection of:
+- Once I was able to get my program to run. Then once the opening story scenario is printed the first set of choices (left and right) is available for the user to make their choice. Upon making the selection of:<br>
 ``` 'You raise your head from writing, do you look "left", "right", or "leave"?\n').lower() ```
 
 ### Error Message 1
@@ -109,7 +109,7 @@ Resource: <br>
 
 ### In my VS code, WSL (Ubuntu) terminal I entered:
 
-`openai migrate`
+`openai migrate` <br>
 
 but received this error message… <br>
 
@@ -125,10 +125,10 @@ Downloading Grit CLI from https://github.com/getgrit/gritql/releases/latest/down
 
 - 1. I had to change the `OpenAI API key` section. <br>
 
-- From `openai.api_key = openai_api_key`
-- To:  `client = openai.OpenAI(api_key=openai_api_key)`
+- From `openai.api_key = openai_api_key` <br>
+- To:  `client = openai.OpenAI(api_key=openai_api_key)` <br>
 
-- 2. Then in the WSL terminal, I entered:
+- 2. Then in the WSL terminal, I entered: <br>
 
 ```
 curl -fsSL https://docs.grit.io/install | bash
@@ -146,7 +146,7 @@ installing to /home/hunchen/.grit/bin
   grit
 everything's installed!
 ```
-- 3. Add a permanent PATH with the grit and WSL message.
+- 3. Add a permanent PATH with the grit and WSL message. <br>
 ```
 To add `$HOME/.grit/bin to your PATH`:
     source $HOME/.grit/bin/env (sh, bash, zsh)
@@ -158,7 +158,7 @@ The message was longer. <br>
 So... I must set the path for Grit, and WSL. <br>
 
 - Add `Grit` to the path: <br>
-`source $HOME/.grit/bin/env`
+`source $HOME/.grit/bin/env` <br>
 
 Nothing should happened in the terminal... So! verify by entering: <br>
 `grit --version` <br>
@@ -167,11 +167,11 @@ Verified by this response: <br>
 
 ### Now, retry the migration commands again:
 
-`grit install` && `grit apply openai`
+`grit install` && `grit apply openai` <br>
 
 - You want to make sure the path is permanent so that you do not have to possibly do this again. <br>
 
-In my VS code, WSL terminal I entered:
+In my VS code, WSL terminal I entered: <br>
 
 ```
 echo ‘source $HOME/.grit/bin/env’ >> ~/.bashrc
@@ -179,8 +179,8 @@ source ~/.bashrc
 ```
 ...Next...<br>
 
-After setting the path and making it permanent, I was able to run the execution command again.
-`python3 textAdventure.py`
+After setting the path and making it permanent, I was able to run the execution command again. <br>
+`python3 textAdventure.py` <br>
 
 ### Welcome...
 ![The Harbor Opening](./TheHarborOpening.png)
