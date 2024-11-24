@@ -205,7 +205,7 @@ This is concerning because the generated content does not align with the initial
 
 - To try and align the story scenario with what the author has written I had to add to the `messages=[…]` role description. From further research, I found that you can add additional roles. This additional role can describe how the AI is to interrupt and then generate a response based on the player's choice. Named `context`. <br>
 
-### User Choice, Left
+### User Choice, Left <br>
 ![User Choice, Left](./userChoiceLeft.png)
 
 For eample, notice:<br>
@@ -218,7 +218,7 @@ For eample, notice:<br>
 
 *** In the above generation, I noticed some sentences are duplicated. I am certain with further work; I could prevent this duplication.<br> 
 
-### Choice 2, `cart`
+### Choice 2, `cart` <br>
 
 ![The Wooden Cart](./cartGeneration.png)
 
@@ -248,7 +248,9 @@ o	This could be in the form of describing how the player walked to the end of th
 
 ### 11/21/2024 Schema
 The Text Adventure Game Diagram <br>
-![TextAdventure drawio](https://github.com/user-attachments/assets/a8c9cfd6-6929-4baa-8a1b-4615ea07ef1c)
+
+![TextAdventure](https://github.com/user-attachments/assets/97fe8fd9-c710-429d-8476-2807b297dbce)
+
 
 
 
