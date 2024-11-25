@@ -208,11 +208,11 @@ This is concerning because the generated content does not align with the initial
 ### User Choice, Left <br>
 ![User Choice, Left](./userChoiceLeft.png)
 
-For eample, notice:<br>
+For example, notice:<br>
 
 ![Generate Description](./GenerateDescription.png)
 
-- Line #12: This is a role that has the AI assistant take the author’s scenario into account by passing in the “Opening Story Scenario”,`opening = input(…)` text. This helps better align the AI-generated content with the author’s sequential story scenarios `# Story Scenario 2`.<br>
+- Line #12: This is a role that has the AI assistant takes the author’s scenario into account by passing in the “Opening Story Scenario”,`opening = input(…)` text. This helps better align the AI-generated content with the author’s sequential story scenarios `# Story Scenario 2`.<br>
 
 - In the Generate Description image. The AI-generated response that used the opening story scenario context as a guide for the AI to generate a response that will in theory lead to the AI agent also taking into consideration the player’s other possible choices. This is done by also creating a context description `context += f”…”` that phrases how you might want the AI to generate its response in regards to the next story scenario `# Story Scenario 2`. <br> 
 
