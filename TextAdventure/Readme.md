@@ -253,7 +253,8 @@ The Text Adventure Game Diagram <br>
 
 
 ## The Harbor Left Play Through <br>
-
+- *** 11/26/24. The video won't play on my pixel 7...
+- maybe embed the YouTube video instead of the mp4...
 
 https://github.com/user-attachments/assets/073cc434-2cd0-4a3a-a5fe-b843971c6170
 
