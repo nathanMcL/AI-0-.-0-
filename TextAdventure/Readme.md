@@ -256,7 +256,7 @@ The Text Adventure Game Diagram <br>
 - *** 11/26/24. The video won't play on my pixel 7...
 - maybe embed the YouTube video instead of the mp4...
 
-[Watch the Harbor Left Play Through]([https://youtu.be/Vx24Vri5shA](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY))
+[Watch the Harbor Left Play Through](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY)
 
 
 
