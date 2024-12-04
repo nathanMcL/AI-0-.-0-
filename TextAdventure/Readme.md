@@ -259,7 +259,6 @@ The Text Adventure Game Diagram <br>
 [Watch the Harbor Left Play Through on Youtube](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY)
 
 
-[AI_TextAdventure_pesentation.pptx](https://github.com/user-attachments/files/18014499/AI_TextAdventure_pesentation.pptx)
 
 
 
@@ -267,7 +266,7 @@ The Text Adventure Game Diagram <br>
 
 ### Noted Sources
 
-- •  https://github.com/openai/openai-python 
-- •  https://github.com/openai/openai-python/discussions/742 
-- •  https://learnprompting.org/docs/prompt_hacking/injection 
+-   https://github.com/openai/openai-python 
+-   https://github.com/openai/openai-python/discussions/742 
+-   https://learnprompting.org/docs/prompt_hacking/injection 
 
