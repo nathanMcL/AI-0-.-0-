@@ -259,8 +259,6 @@ The Text Adventure Game Diagram <br>
 [Watch the Harbor Left Play Through on Youtube](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY)
 
 
-https://github.com/user-attachments/assets/2c6028d9-f1d4-47f9-9935-1e1915c7bee5 <br>
-
 [AI_TextAdventure_pesentation.pptx](https://github.com/user-attachments/files/18014499/AI_TextAdventure_pesentation.pptx)
 
 
