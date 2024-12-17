@@ -1,6 +1,12 @@
 ## 11/4/2024: Generative Text Adventure Game
 
+![opening](https://github.com/user-attachments/assets/597c4a08-8ca9-4d6f-97e9-bb481434cae3) <br>
+
+
 - Beginning with the template, or instructor-supplied starter script (**See Example Code below**). Using my ChooseOwnAdventure.py as my base to start the structure of the textAdventure.py script. After the opening of “The Harbor” ASCII art, I started with the `opening’ scenario that sets the scene. I am curious how the AI agent will interpret the opening scenario. With the Keyword “left,” or “right” that leads to the other options in the story. My thought is that if I provide a descriptive scene for the input, the AI will have more description of the scene to generate a more dynamic output. <br>
+
+![introduction](https://github.com/user-attachments/assets/c34cb90b-ea3c-4367-88ee-f49c1b5a64e6) <br>
+
 
 ### Using this as a template: <br>
 
@@ -183,7 +189,8 @@ After setting the path and making it permanent, I was able to run the execution 
 `python3 textAdventure.py` <br>
 
 ### Welcome...
-![The Harbor Opening](./TheHarborOpening.png)
+![TheHarbor(correct alignment)](https://github.com/user-attachments/assets/01ed7cd7-6f92-4106-8f7c-6c901ba3841a)
+
 
 - There are some things I noticed from my first impressions that do need some refinement. <br>
 - One issue is the ASCII art welcome scene, the flowers all appear to be one space to the right starting from lines 27 to 21. Although it bothers me visually it is not my focus.<br> 
@@ -256,12 +263,18 @@ The Text Adventure Game Diagram <br>
 - *** 11/26/24. The video won't play on my pixel 7...
 - maybe embed the YouTube video instead of the mp4...
 
-[Watch the Harbor Left Play Through on Youtube](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY)
+[Watch the Harbor Left Play Through on Youtube](https://youtu.be/Vx24Vri5shA?si=nz1h9OmnsmNhY_oY) <br>
 
 
+![Market_left](https://github.com/user-attachments/assets/f3bf5cbf-26f4-432e-aa60-025410e88303) <br>
 
+![Fowl](https://github.com/user-attachments/assets/d18cee7f-ca15-41b3-8991-7c19512c9315) <br>
 
+![Sanitize_User_input](https://github.com/user-attachments/assets/eefefb2b-1553-4bd0-b3fa-17eaeed322bc) <br>
 
+![textPrevetion_disclaimer](https://github.com/user-attachments/assets/95294902-eb8c-41b6-95e6-24f88fe3ce82) <br>
+ 
+![handle_leave_scenario](https://github.com/user-attachments/assets/d600cd35-df54-4e7e-b62d-152ec5d50db5) <br>
 
 
 ### Noted Sources
